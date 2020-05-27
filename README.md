@@ -1,2 +1,3 @@
-# d3
-Archivo de Configuracion Escritorio
+# Qtile
+
+Archivo de Configuracion Escritorio qtile
